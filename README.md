@@ -1,2 +1,2 @@
-## Games
-# Guess the number 
+# Games
+## Guess the number 

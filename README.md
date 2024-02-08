@@ -4,3 +4,5 @@ Forget the stress and have fun!
 ## 1/ Guess the number 
 ## 2/ Snake 
 ## 3/ Flappy Bird
+## 4/ Tic Tac Toe
+## 5/ Pong
